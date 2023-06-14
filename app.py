@@ -3,7 +3,11 @@
   {
    "cell_type": "code",
    "execution_count": 4,
+<<<<<<< HEAD
    "id": "417c059e",
+=======
+   "id": "85fd4055",
+>>>>>>> 99b1e1a13bdd9d00c590225e0c5e12eced9b1bfe
    "metadata": {},
    "outputs": [
     {
